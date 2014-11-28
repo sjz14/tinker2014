@@ -1,0 +1,9 @@
+Header header
+int32 state
+
+int32 IDLE=0
+int32 FOLLOWME=1
+int32 PICKANDPLACE=2
+int32 AVOIDTHAT=3
+int32 WHATDIDYOUSAY=4
+int32 EMERGENCY=5
